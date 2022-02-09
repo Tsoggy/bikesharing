@@ -7,7 +7,7 @@ In this project, we have analyzed data for the usage of the NYC Citi Bike Sharin
 ## Results
 
 ### Tableau Analysis
-[link to dashboard](https://public.tableau.com/views/NYCCitiBikesChallenge_16433998963730/CitiBike?:language=en-US&:display_count=n&:origin=viz_share_link "Link to Dashboard")
+[Link to Dashboard](https://public.tableau.com/views/NYCCitiBikesChallenge_16433998963730/CitiBike?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Visualizations
 
