@@ -2,7 +2,7 @@
 
 ## Overview
 ### Purpose
-In this project, we have analyzed data for the usage of the NYC Citi Bike Sharing program, using data found at the following source: [link to data](https://ride.citibikenyc.com/system-data "NYC Citi Bike Sharing Data). We are using this data to determine how we would open a bike-sharing business in Des Moines.
+In this project, we have analyzed data for the usage of the NYC Citi Bike Sharing program, using data found at the following source: [Citi Bike NYC](https://ride.citibikenyc.com/system-data). We are using this data to determine how we would open a bike-sharing business in Des Moines.
 
 ## Results
 
