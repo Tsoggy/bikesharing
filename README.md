@@ -39,7 +39,7 @@ In this project, we have analyzed data for the usage of the NYC Citi Bike Sharin
 ![Trips_By_User_Type](Resources/Trips_By_User_Type.png)
 - This heatmap shows us that subscribers to the bike sharing service use bikes at much greater levels than customers who are not subscribers. We can also see that bikes are rented at far greater quantities on Thursday, although Thursday is a weekday and not weekend and therefore this would be an interesting piece of information to explore.
 
-### Summary
+## Summary
 When taking a look at this data in conjunction with planning for a bike sharing service in Des Moines, the following data is the most relevant:
 - Bikes are used by commuters on weekday mornings and afternoons. Prepare for a greater number of bikes at popular locations or at transit hubs during these times.
 - Bikes are used more by male users than female. How do we encourage more female users? Taking a look at safety would be important.
