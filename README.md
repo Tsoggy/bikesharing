@@ -27,3 +27,6 @@ In this project, we have analyzed data for the usage of the NYC Citi Bike Sharin
 ![August](Resources/August_Peak_Hours.png)
 - Bike usage was greatest between the hours of 5:00 pm and 7:00 pm, with lowest usage between 2:00 am and 5:00 am.
 
+#### Trips by Weekday per Hour
+![Trips_By_Weekday](Resources/Trips_By_Weekday.png)
+- This heatmap shows the 
